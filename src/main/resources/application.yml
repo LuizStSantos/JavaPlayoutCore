@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://luizstsantos:bsQNRN72uvL5cTFG@javaplayoutcore.jpzcibw.mongodb.net/JavaPlayoutCore?retryWrites=true&w=majority&appName=JavaPlayoutCore
+
+  servlet:
+    multipart:
+      max-file-size: 2048MB
+      max-request-size: 2048MB
+
+video:
+  path: /home/luiz/videos
+  fallback: /home/luiz/fallback.mp4

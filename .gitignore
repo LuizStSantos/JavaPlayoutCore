@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Project ###
+*.log
+*.mp4
+*.mkv
+*.mov
+application.properties
+application.yml
+
